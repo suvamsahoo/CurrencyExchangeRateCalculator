@@ -15,7 +15,7 @@ body {
   padding: 20px;
 }
 .money-img {
-  width: 150px;
+  width: 220px;
 }
 p,
 h1 {
@@ -98,6 +98,6 @@ button:focus {
     background-size: 7px auto, 100%;
   }
   .money-img {
-    width: 120px;
+    width: 150px;
   }
 }
